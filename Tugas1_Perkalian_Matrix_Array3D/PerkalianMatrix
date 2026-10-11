@@ -1,0 +1,34 @@
+import numpy as np
+
+print("PERKALIAN MATRIX ARRAY 3 DIMENSI")
+
+n = int(input("Jumlah Matrix: "))
+baris = int(input("Jumlah baris: "))
+kolom = int(input("Jumlah kolom: "))
+
+A = []
+B = []
+
+print("\nMasukkan Matrix A:")
+for i in range(n):
+    print("Matrix ke-", i + 1)
+    matrix = []
+    for j in range(baris):
+        matrix.append(list(map(int, input().split())))
+    A.append(matrix)
+
+print("\nMasukkan Matrix B:")
+for i in range(n):
+    print("Matrix ke-", i + 1)
+    matrix = []
+    for j in range(baris):
+        matrix.append(list(map(int, input().split())))
+    B.append(matrix)
+
+A = np.array(A)
+B = np.array(B)
+
+hasil = np.matmul(A, B)
+
+print("\nHasil perkalian:")
+print(hasil)
