@@ -1,0 +1,46 @@
+Gambar,Metode,Karakter Benar,Akurasi
+01_HighQuality_Enhanced.jpg,Original,24,92.31
+01_HighQuality_Enhanced.jpg,Mean Filter,26,100.0
+01_HighQuality_Enhanced.jpg,Median Filter,25,96.15
+01_HighQuality_Enhanced.jpg,Gaussian Filter,24,92.31
+01_HighQuality_Enhanced.jpg,Sharpening,24,92.31
+02_LowContrast.jpg,Original,24,92.31
+02_LowContrast.jpg,Mean Filter,25,96.15
+02_LowContrast.jpg,Median Filter,24,92.31
+02_LowContrast.jpg,Gaussian Filter,25,96.15
+02_LowContrast.jpg,Sharpening,24,92.31
+03_Blurred.jpg,Original,26,100.0
+03_Blurred.jpg,Mean Filter,26,100.0
+03_Blurred.jpg,Median Filter,26,100.0
+03_Blurred.jpg,Gaussian Filter,26,100.0
+03_Blurred.jpg,Sharpening,26,100.0
+04_HighNoise.jpg,Original,25,96.15
+04_HighNoise.jpg,Mean Filter,25,96.15
+04_HighNoise.jpg,Median Filter,24,92.31
+04_HighNoise.jpg,Gaussian Filter,26,100.0
+04_HighNoise.jpg,Sharpening,0,0.0
+05_LowResolution_Upsampled.jpg,Original,25,96.15
+05_LowResolution_Upsampled.jpg,Mean Filter,25,96.15
+05_LowResolution_Upsampled.jpg,Median Filter,26,100.0
+05_LowResolution_Upsampled.jpg,Gaussian Filter,25,96.15
+05_LowResolution_Upsampled.jpg,Sharpening,26,100.0
+06_Faded_Underexposed.jpg,Original,24,92.31
+06_Faded_Underexposed.jpg,Mean Filter,26,100.0
+06_Faded_Underexposed.jpg,Median Filter,25,96.15
+06_Faded_Underexposed.jpg,Gaussian Filter,25,96.15
+06_Faded_Underexposed.jpg,Sharpening,26,100.0
+07_ColorShift_WarmTint.jpg,Original,24,92.31
+07_ColorShift_WarmTint.jpg,Mean Filter,25,96.15
+07_ColorShift_WarmTint.jpg,Median Filter,24,92.31
+07_ColorShift_WarmTint.jpg,Gaussian Filter,25,96.15
+07_ColorShift_WarmTint.jpg,Sharpening,24,92.31
+08_JPEGCompression_Artifacts.jpg,Original,24,92.31
+08_JPEGCompression_Artifacts.jpg,Mean Filter,25,96.15
+08_JPEGCompression_Artifacts.jpg,Median Filter,25,96.15
+08_JPEGCompression_Artifacts.jpg,Gaussian Filter,25,96.15
+08_JPEGCompression_Artifacts.jpg,Sharpening,24,92.31
+09_CombinedDegradation.jpg,Original,24,92.31
+09_CombinedDegradation.jpg,Mean Filter,25,96.15
+09_CombinedDegradation.jpg,Median Filter,24,92.31
+09_CombinedDegradation.jpg,Gaussian Filter,24,92.31
+09_CombinedDegradation.jpg,Sharpening,25,96.15

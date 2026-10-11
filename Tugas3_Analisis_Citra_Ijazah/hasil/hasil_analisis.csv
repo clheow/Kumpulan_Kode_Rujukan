@@ -1,0 +1,10 @@
+Citra,Rata-rata Intensitas,Standar Deviasi,Minimum,Maksimum,Piksel Gelap (%),Piksel Terang (%),Perbedaan Pencahayaan,Indikasi Noise,Kondisi Citra,Metode Enhancement
+ijazah1.jpg,154.94,15.27,7,174,0.1,0.0,1.61,1.58,Kontras rendah,CLAHE
+ijazah2.jpg,231.87,31.95,0,255,0.81,93.88,3.39,5.46,Terlalu terang,Gamma Correction
+ijazah3.jpg,231.33,32.93,0,252,0.96,93.72,3.48,3.99,Terlalu terang,Gamma Correction
+ijazah4.jpg,237.7,37.95,0,255,1.71,93.85,4.14,4.66,Terlalu terang,Gamma Correction
+ijazah5.jpg,239.58,28.71,0,255,0.17,92.87,3.68,1.37,Terlalu terang,Gamma Correction
+ijazah6.jpg,239.2,32.96,0,255,0.58,93.56,3.77,3.17,Terlalu terang,Gamma Correction
+ijazah7.jpg,239.61,20.08,60,255,0.0,94.9,2.18,2.19,Terlalu terang,Gamma Correction
+ijazah8.jpg,238.97,34.15,1,255,0.94,93.96,3.73,3.96,Terlalu terang,Gamma Correction
+ijazah9.jpg,184.56,22.2,2,204,0.33,0.01,2.54,2.08,Kontras rendah,CLAHE
